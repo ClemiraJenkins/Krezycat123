@@ -1,4 +1,4 @@
-👋 Hi, I’m @Krezycat123 — but you can call me Clemira!
+👋 Hi, I’m @ClemiraJenkins — but you can call me Clemira!
 
 🌱 I’m currently a Computer Science student at Singapore Management University (SMU), passionate about building cool, meaningful projects that blend creativity with tech.
 
