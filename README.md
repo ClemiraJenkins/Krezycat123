@@ -4,7 +4,7 @@
 
 ### 💻 CS Student @ SMU | 🎨 Full-Stack Developer | 🎤 Creative Technologist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=Building+meaningful+digital+experiences+%F0%9F%9A%80;Full-stack+%2B+creative+problem+solver+%E2%9C%A8;Scrum+Master+%7C+Content Creator+%7C+Leader+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=Building+meaningful+digital+experiences+%F0%9F%9A%80;Full-stack+%2B+creative+problem+solver+%E2%9C%A8;Scrum+Master+%7C+Content+Creator+%7C+Leader+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
@@ -20,7 +20,7 @@ const clemira = {
     focus: ["Full-Stack Development", "Software Engineering", "Content Creation"],
     leadership: "President of Woori Sayi (SMU Korean Cultural Club)",
     funFact: "Performed on stage and debugged code on the same day 🎤💻",
-    motto: ""If there is a will, there is a way!"
+    motto: "If there is a will, there is a way!"
 };
 ```
 
