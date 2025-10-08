@@ -129,18 +129,6 @@ Interactive maps + price comparison • Clean, ad-free UI with real-time data
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem-rho-mauve.vercel.app/api/spotify)](https://open.spotify.com/user/clemirajenkins)
-
-*Note: Shows current/recent listening activity*
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
