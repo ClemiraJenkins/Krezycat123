@@ -20,7 +20,7 @@ const clemira = {
     focus: ["Full-Stack Development", "Software Engineering", "UI/UX Design"],
     leadership: "President of Woori Sayi (SMU Korean Cultural Club)",
     funFact: "Sang on stage and debugged code on the same day 🎤💻",
-    motto: "Make it work, make it beautiful, make it meaningful"
+    motto: "If there is a will, there is a way!"
 };
 ```
 
@@ -77,7 +77,7 @@ const clemira = {
 
 <div align="center">
 
-### 🌍 [Tariff Calculator]([https://github.com/ClemiraJenkins](https://github.com/ClemiraJenkins/Tariff-Calculator.git))
+### 🌍 [Tariff Calculator]([(https://github.com/ClemiraJenkins/Tariff-Calculator.git)])
 **World Tariff Calculator for PC Hardware**  
 `Java` `React` `Supabase` `SQL` `REST API` `Jira`
 
@@ -86,7 +86,7 @@ Managed 25+ Jira tasks • Implemented JWT authentication • Built modular REST
 
 ---
 
-### 🍜 [UP2U]([https://github.com/ClemiraJenkins](https://github.com/God3Tier/Heap_project.git))
+### 🍜 [UP2U]([(https://github.com/God3Tier/Heap_project.git)])
 **Budget Food Discovery Platform - SMU Hackathon Finalist**  
 `JavaScript` `Supabase` `HTML/CSS` `Vercel`
 
@@ -155,7 +155,7 @@ Interactive maps + price comparison • Clean, ad-free UI with real-time data
 
 <div align="center">
 
-### ✨ *"Make it work, make it beautiful, make it meaningful"* ✨
+### ✨ *"If there is a will, there is a way!* ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ClemiraJenkins&color=ff6b9d&style=for-the-badge)
 
