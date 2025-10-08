@@ -4,7 +4,7 @@
 
 ### 💻 CS Student @ SMU | 🎨 Full-Stack Developer | 🎤 Creative Technologist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=Building+meaningful+digital+experiences+%F0%9F%9A%80;Full-stack+%2B+creative+problem+solver+%E2%9C%A8;Scrum+Master+%7C+Content+Creator+%7C+Leader+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=Building+meaningful+digital+experiences+%F0%9F%9A%80;Full-stack+%2B+creative+problem+solver+%E2%9C%A8;Scrum+Master+%7C+Founder+%7C+Leader+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
@@ -17,10 +17,10 @@ const clemira = {
     location: "Singapore 🇸🇬",
     education: "B.S. Computer Science @ SMU (2024-2028)",
     currentRole: ["Full Stack Intern @ Edureka", "Founder @ Calamari Crafts"],
-    focus: ["Full-Stack Development", "Software Engineering", "Content Creation"],
+    focus: ["Full-Stack Development", "Software Engineering", "UI/UX Design"],
     leadership: "President of Woori Sayi (SMU Korean Cultural Club)",
-    funFact: "Performed on stage and debugged code on the same day 🎤💻",
-    motto: "If there is a will, there is a way!"
+    funFact: "Sang on stage and debugged code on the same day 🎤💻",
+    motto: "Make it work, make it beautiful, make it meaningful"
 };
 ```
 
@@ -77,7 +77,7 @@ const clemira = {
 
 <div align="center">
 
-### 🌍 [Tariff Calculator](https://github.com/ClemiraJenkins)
+### 🌍 [Tariff Calculator]([https://github.com/ClemiraJenkins](https://github.com/ClemiraJenkins/Tariff-Calculator.git))
 **World Tariff Calculator for PC Hardware**  
 `Java` `React` `Supabase` `SQL` `REST API` `Jira`
 
@@ -86,7 +86,7 @@ Managed 25+ Jira tasks • Implemented JWT authentication • Built modular REST
 
 ---
 
-### 🍜 [UP2U](https://github.com/ClemiraJenkins)
+### 🍜 [UP2U]([https://github.com/ClemiraJenkins](https://github.com/God3Tier/Heap_project.git))
 **Budget Food Discovery Platform - SMU Hackathon Finalist**  
 `JavaScript` `Supabase` `HTML/CSS` `Vercel`
 
@@ -114,12 +114,12 @@ Interactive maps + price comparison • Clean, ad-free UI with real-time data
 
 <div align="center">
   
-| 💼 Professional | 🎓 Academic | 👥 Leadership |
-|:---:|:---:|:---:|
-| **Full Stack Intern** @ Edureka | **CS Student** @ SMU | **President** @ Woori Sayi |
-| 60+ hrs professional track | Data Structures & Algorithms | 300+ students engaged |
-| End-to-end web apps | Software Engineering | 4+ major campus events |
-| REST APIs + Firebase | Operating Systems | Cross-cultural initiatives |
+| 💼 Professional | 🎓 Academic | 👥 Leadership | 🎤 Performance |
+|:---:|:---:|:---:|:---:|
+| **Full Stack Intern** @ Edureka | **CS Student** @ SMU | **President** @ Woori Sayi | **1st Place** Macao Int'l Competition |
+| 60+ hrs professional track | Data Structures & Algorithms | 300+ students engaged | Musical Vocal Category |
+| End-to-end web apps | Software Engineering | 4+ major campus events | **3rd Place** Hong Kong Festival |
+| REST APIs + Firebase | Operating Systems | Cross-cultural initiatives | Asia Student Arts (Vocal) |
 
 </div>
 
@@ -133,7 +133,9 @@ Interactive maps + price comparison • Clean, ad-free UI with real-time data
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=clemirajenkins&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff6b9d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=clemirajenkins&redirect=true)
+[![Spotify](https://novatorem-rho-mauve.vercel.app/api/spotify)](https://open.spotify.com/user/clemirajenkins)
+
+*Note: Shows current/recent listening activity*
 
 </div>
 
@@ -153,7 +155,7 @@ Interactive maps + price comparison • Clean, ad-free UI with real-time data
 
 <div align="center">
 
-### ✨ *"If there is a will, there is a way!"* ✨
+### ✨ *"Make it work, make it beautiful, make it meaningful"* ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ClemiraJenkins&color=ff6b9d&style=for-the-badge)
 
